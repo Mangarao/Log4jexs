@@ -1,0 +1,15 @@
+Error informationlogging
+ Fatal error message here
+ Error informationlogging
+ Fatal error message here
+ Information logging
+ Warning message
+ Error informationlogging
+ Fatal error message here
+ 2022-11-24 11:38:40 ERROR BasicConfigEx:16 - Error informationlogging
+ 2022-11-24 11:38:40 FATAL BasicConfigEx:17 - Fatal error message here
+ 2022-11-24 11:38:52 INFO  BasicConfigEx:14 - Information logging
+ 2022-11-24 11:38:52 WARN  BasicConfigEx:15 - Warning message
+ 2022-11-24 11:38:52 ERROR BasicConfigEx:16 - Error informationlogging
+ 2022-11-24 11:38:52 FATAL BasicConfigEx:17 - Fatal error message here
+ 
